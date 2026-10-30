@@ -1,0 +1,301 @@
+income,education,employed,loan_amount,credit_history,married,approved
+15885,Graduate,No,326300,0,Yes,0
+55857,Not Graduate,Yes,223353,0,No,0
+114676,Not Graduate,Yes,329259,0,Yes,0
+78576,Graduate,No,457286,0,Yes,0
+42911,Not Graduate,Yes,44776,0,Yes,0
+39130,Not Graduate,Yes,432427,1,Yes,1
+137106,Graduate,Yes,193679,1,No,1
+19180,Not Graduate,No,346974,1,No,0
+37185,Graduate,No,134250,0,Yes,0
+61067,Graduate,No,460593,0,No,0
+115759,Graduate,Yes,343694,1,No,1
+40652,Graduate,No,410819,1,No,0
+111641,Not Graduate,Yes,517585,0,No,0
+20328,Not Graduate,Yes,413811,0,Yes,0
+48687,Not Graduate,No,224410,0,No,0
+58905,Not Graduate,No,666948,0,No,0
+53981,Graduate,Yes,23954,0,Yes,0
+77283,Not Graduate,No,508367,1,No,1
+32394,Graduate,No,540660,0,Yes,0
+94594,Not Graduate,No,267613,1,No,1
+117738,Graduate,No,644654,0,Yes,0
+47415,Graduate,No,447563,0,No,0
+36062,Graduate,No,467274,0,Yes,0
+42307,Not Graduate,No,121106,1,Yes,0
+45696,Not Graduate,Yes,159388,1,Yes,1
+117203,Not Graduate,No,328201,1,No,1
+48299,Not Graduate,Yes,292981,0,Yes,0
+47157,Not Graduate,Yes,266943,0,No,0
+23494,Graduate,Yes,435309,1,Yes,0
+100632,Graduate,Yes,506450,0,No,0
+130713,Not Graduate,Yes,262340,1,No,1
+45525,Graduate,Yes,145007,0,Yes,0
+63789,Not Graduate,No,557572,0,Yes,0
+28864,Graduate,Yes,688422,1,No,0
+59566,Graduate,No,168236,0,Yes,0
+93567,Not Graduate,No,233324,0,No,0
+39267,Graduate,Yes,671180,1,Yes,0
+119239,Graduate,No,539700,1,Yes,1
+119312,Graduate,Yes,434498,0,No,0
+106148,Not Graduate,No,304339,1,No,1
+139936,Not Graduate,No,73855,1,No,1
+17387,Not Graduate,No,401452,0,Yes,0
+138468,Graduate,No,26162,1,Yes,1
+122527,Not Graduate,No,114883,1,Yes,1
+32036,Graduate,No,35554,0,Yes,0
+90086,Graduate,Yes,672418,1,No,1
+52132,Graduate,Yes,189675,0,No,0
+79292,Graduate,Yes,226927,1,No,1
+56225,Graduate,Yes,75967,1,Yes,1
+96402,Not Graduate,Yes,444132,0,Yes,0
+20467,Not Graduate,No,439163,0,Yes,0
+34590,Graduate,Yes,279060,0,No,0
+30431,Not Graduate,No,428773,1,No,0
+91365,Not Graduate,No,281366,1,No,1
+81005,Graduate,Yes,479646,0,No,0
+75984,Not Graduate,Yes,266678,1,No,1
+67473,Graduate,No,132277,0,No,0
+62884,Graduate,Yes,116168,1,Yes,1
+25779,Graduate,No,348965,0,Yes,0
+18389,Graduate,Yes,89605,0,No,0
+52733,Graduate,No,193131,0,No,0
+35809,Not Graduate,Yes,359569,1,No,1
+80826,Not Graduate,Yes,523429,0,No,0
+63793,Graduate,No,58622,0,Yes,0
+98436,Not Graduate,Yes,311711,1,No,1
+30083,Not Graduate,No,576501,0,Yes,0
+48034,Not Graduate,No,581723,1,No,0
+63358,Not Graduate,No,625406,0,Yes,0
+72970,Graduate,No,261222,0,No,0
+55641,Graduate,Yes,690289,1,Yes,1
+34577,Not Graduate,No,325105,1,Yes,0
+32304,Graduate,Yes,532118,0,Yes,0
+15342,Not Graduate,Yes,614669,1,No,0
+85007,Not Graduate,Yes,255152,1,Yes,1
+63003,Graduate,Yes,674237,1,Yes,1
+137760,Not Graduate,Yes,275420,0,Yes,0
+98651,Not Graduate,No,171720,1,Yes,1
+22357,Not Graduate,No,696276,1,Yes,0
+36639,Graduate,Yes,20418,0,No,0
+39334,Graduate,Yes,269213,0,Yes,0
+95299,Graduate,No,597684,0,Yes,0
+82929,Graduate,No,657621,1,Yes,1
+54356,Not Graduate,Yes,676370,0,No,0
+125681,Graduate,No,477858,1,Yes,1
+44615,Graduate,Yes,130395,1,Yes,1
+58976,Not Graduate,No,296088,0,No,0
+53747,Graduate,Yes,693189,0,Yes,0
+49127,Graduate,No,267578,0,Yes,0
+130364,Graduate,No,427589,1,No,1
+76884,Graduate,No,576393,0,Yes,0
+89755,Not Graduate,Yes,342700,0,Yes,0
+33952,Graduate,Yes,54512,0,Yes,0
+60201,Graduate,Yes,168731,0,Yes,0
+105783,Graduate,Yes,694805,0,Yes,0
+127262,Graduate,Yes,639155,1,No,1
+29039,Graduate,Yes,278555,0,Yes,0
+19512,Not Graduate,No,684978,0,Yes,0
+32387,Not Graduate,No,122615,0,No,0
+70543,Not Graduate,No,293845,0,No,0
+21344,Not Graduate,No,405901,1,Yes,0
+118423,Not Graduate,Yes,452978,0,No,0
+76465,Graduate,No,70454,0,Yes,0
+72154,Not Graduate,Yes,21362,0,Yes,0
+60587,Not Graduate,Yes,534665,0,No,0
+92667,Graduate,No,384050,1,Yes,1
+137983,Graduate,Yes,262774,1,Yes,1
+79263,Not Graduate,No,608518,0,Yes,0
+67595,Not Graduate,Yes,433767,0,No,0
+42016,Not Graduate,Yes,337866,1,No,1
+130864,Not Graduate,Yes,681383,0,Yes,0
+60676,Graduate,No,629831,1,No,0
+37223,Not Graduate,Yes,505655,1,Yes,1
+58785,Graduate,No,504460,0,No,0
+113924,Graduate,Yes,667319,0,No,0
+94022,Graduate,Yes,567544,1,No,1
+39808,Graduate,Yes,291254,0,Yes,0
+65362,Not Graduate,No,178293,0,No,0
+50890,Graduate,No,225721,0,Yes,0
+131031,Graduate,Yes,427205,1,No,1
+126978,Not Graduate,No,477732,0,Yes,0
+33587,Graduate,Yes,289707,1,No,1
+106902,Graduate,Yes,621859,1,Yes,1
+99087,Not Graduate,No,150249,1,No,1
+97349,Graduate,No,122620,1,Yes,1
+47775,Not Graduate,Yes,464155,1,No,1
+82928,Graduate,No,211954,1,No,1
+134038,Not Graduate,Yes,131547,0,Yes,0
+108875,Graduate,No,229517,1,Yes,1
+109017,Not Graduate,No,518844,0,No,0
+112269,Graduate,No,499104,0,Yes,0
+110565,Graduate,No,663828,1,No,1
+65048,Graduate,Yes,439099,0,No,0
+134987,Not Graduate,Yes,460975,1,Yes,1
+54779,Not Graduate,No,439931,0,Yes,0
+36565,Graduate,No,155580,0,Yes,0
+121776,Not Graduate,No,173368,1,No,1
+114600,Not Graduate,No,594900,0,Yes,0
+50051,Not Graduate,Yes,414420,1,No,1
+15353,Graduate,No,314871,1,No,0
+77855,Graduate,No,528474,1,Yes,1
+136730,Graduate,Yes,337895,1,No,1
+117765,Graduate,Yes,167221,1,Yes,1
+139750,Not Graduate,Yes,95497,1,Yes,1
+126958,Not Graduate,No,264990,0,Yes,0
+42333,Graduate,No,442035,0,Yes,0
+79810,Not Graduate,Yes,243452,0,Yes,0
+49667,Graduate,No,459393,0,No,0
+88033,Not Graduate,Yes,81293,1,No,1
+47317,Graduate,Yes,542375,0,No,0
+76336,Not Graduate,No,609896,1,No,1
+70812,Graduate,No,459161,0,Yes,0
+17694,Not Graduate,Yes,659290,0,No,0
+78527,Graduate,No,171508,0,Yes,0
+59381,Not Graduate,No,119054,1,Yes,0
+52244,Not Graduate,No,476329,1,Yes,0
+123360,Not Graduate,No,323193,1,No,1
+58741,Not Graduate,Yes,548219,1,No,1
+118802,Graduate,No,143656,1,No,1
+31720,Graduate,No,634938,0,No,0
+86486,Not Graduate,No,621928,0,Yes,0
+15814,Not Graduate,Yes,68650,0,No,0
+95831,Graduate,Yes,174194,0,No,0
+96956,Graduate,Yes,202351,0,No,0
+116519,Not Graduate,Yes,125492,0,No,0
+88675,Graduate,No,290535,1,Yes,1
+56743,Graduate,No,41382,1,Yes,0
+123102,Not Graduate,No,144620,1,Yes,1
+16852,Not Graduate,No,425948,0,Yes,0
+25869,Graduate,Yes,695813,1,Yes,0
+70967,Graduate,Yes,25015,0,Yes,0
+128973,Not Graduate,Yes,147242,0,No,0
+109286,Not Graduate,Yes,616628,0,Yes,0
+62955,Not Graduate,No,171833,0,No,0
+102758,Graduate,Yes,286391,0,Yes,0
+16930,Not Graduate,No,668254,0,No,0
+110609,Not Graduate,Yes,649270,0,No,0
+63177,Not Graduate,Yes,622892,1,Yes,1
+119511,Graduate,No,142374,1,No,1
+65559,Not Graduate,No,494748,1,No,0
+22947,Graduate,Yes,672054,1,No,0
+91633,Not Graduate,No,469379,0,No,0
+93876,Not Graduate,Yes,265737,1,No,1
+49477,Graduate,Yes,301042,1,No,1
+124213,Not Graduate,No,167502,0,No,0
+85065,Not Graduate,Yes,109195,1,Yes,1
+55562,Not Graduate,No,656378,0,Yes,0
+136372,Not Graduate,No,287108,0,Yes,0
+85274,Graduate,No,392354,0,No,0
+131011,Not Graduate,Yes,567208,1,Yes,1
+42878,Graduate,No,221655,0,No,0
+90742,Not Graduate,Yes,611848,1,Yes,1
+20845,Graduate,No,537229,1,No,0
+118199,Not Graduate,Yes,105710,0,No,0
+51771,Graduate,Yes,564689,0,Yes,0
+129133,Graduate,No,612942,1,No,1
+70830,Graduate,No,121824,1,Yes,1
+59412,Not Graduate,Yes,230752,0,Yes,0
+21684,Not Graduate,No,56501,1,Yes,0
+128111,Graduate,Yes,647119,1,No,1
+56774,Graduate,No,611896,0,Yes,0
+73765,Graduate,Yes,187487,1,Yes,1
+20063,Graduate,Yes,288290,1,Yes,0
+48803,Graduate,Yes,558270,1,Yes,1
+56639,Not Graduate,No,26058,0,Yes,0
+76698,Not Graduate,No,359653,1,Yes,1
+64149,Graduate,No,524693,1,Yes,0
+120847,Not Graduate,Yes,170102,0,Yes,0
+35572,Not Graduate,Yes,251265,0,No,0
+27712,Graduate,No,423784,0,No,0
+57279,Graduate,No,265242,1,Yes,0
+58513,Graduate,No,252417,0,Yes,0
+72536,Not Graduate,No,176648,1,Yes,1
+35406,Not Graduate,No,46654,1,Yes,0
+49166,Not Graduate,No,534858,0,No,0
+29964,Graduate,No,180819,0,No,0
+30622,Not Graduate,No,290315,0,No,0
+46283,Not Graduate,No,269716,0,No,0
+132466,Not Graduate,Yes,190072,0,Yes,0
+72948,Graduate,No,552458,1,Yes,1
+118489,Graduate,No,572166,1,No,1
+20314,Not Graduate,Yes,448805,0,Yes,0
+125542,Graduate,Yes,208879,0,Yes,0
+123654,Not Graduate,Yes,111667,1,Yes,1
+32962,Not Graduate,Yes,662182,0,Yes,0
+23610,Graduate,No,564800,1,No,0
+51930,Graduate,Yes,690229,1,No,1
+134303,Not Graduate,Yes,519766,0,Yes,0
+88810,Graduate,No,404933,0,Yes,0
+61682,Graduate,Yes,565073,1,No,1
+108662,Not Graduate,Yes,276613,1,No,1
+129400,Not Graduate,Yes,132919,1,Yes,1
+17711,Graduate,Yes,275367,0,Yes,0
+28457,Graduate,Yes,347064,1,Yes,1
+136413,Graduate,No,224561,1,Yes,1
+107097,Not Graduate,Yes,485790,0,Yes,0
+20920,Not Graduate,No,306274,0,No,0
+29423,Not Graduate,Yes,147965,0,Yes,0
+127864,Not Graduate,No,258061,0,Yes,0
+139281,Not Graduate,Yes,39407,1,No,1
+138377,Not Graduate,No,74490,1,Yes,1
+124912,Not Graduate,No,371359,1,Yes,1
+57582,Not Graduate,Yes,562506,0,No,0
+101916,Not Graduate,Yes,683423,0,Yes,0
+24078,Graduate,Yes,360105,1,Yes,0
+33272,Not Graduate,Yes,461165,1,Yes,1
+19505,Not Graduate,Yes,692739,1,Yes,0
+47844,Not Graduate,Yes,147611,0,Yes,0
+52686,Not Graduate,Yes,138535,1,Yes,1
+22908,Graduate,No,643157,1,Yes,0
+72668,Not Graduate,No,149939,0,No,0
+50928,Not Graduate,No,275224,0,Yes,0
+100243,Not Graduate,No,425433,0,No,0
+95320,Not Graduate,Yes,521068,1,Yes,1
+58734,Not Graduate,No,252344,0,Yes,0
+136135,Graduate,No,389783,0,No,0
+79409,Graduate,No,303039,1,Yes,1
+116204,Graduate,No,42844,0,No,0
+101208,Not Graduate,No,85029,1,Yes,1
+83279,Not Graduate,No,256104,0,No,0
+33392,Graduate,No,232328,1,No,0
+117883,Not Graduate,Yes,681303,0,Yes,0
+68794,Not Graduate,No,596660,0,Yes,0
+69776,Not Graduate,No,312876,0,No,0
+52756,Not Graduate,No,389747,1,No,0
+99961,Not Graduate,No,357634,0,No,0
+54324,Graduate,No,213159,1,No,0
+91229,Not Graduate,No,263203,0,Yes,0
+57705,Graduate,Yes,234234,1,Yes,1
+48626,Not Graduate,No,612376,1,No,0
+82822,Not Graduate,No,562392,1,No,1
+20336,Not Graduate,Yes,643609,1,Yes,0
+83845,Not Graduate,No,260408,0,No,0
+100004,Graduate,No,608606,0,No,0
+67643,Graduate,Yes,481544,1,No,1
+56691,Not Graduate,Yes,404468,0,Yes,0
+100973,Not Graduate,Yes,329246,1,No,1
+121976,Graduate,No,556457,0,Yes,0
+22886,Not Graduate,Yes,680705,0,No,0
+16406,Graduate,No,22914,1,No,0
+125383,Graduate,Yes,123281,0,Yes,0
+80255,Graduate,Yes,600124,1,No,1
+93871,Graduate,Yes,147403,0,Yes,0
+28120,Not Graduate,No,99828,0,No,0
+120722,Not Graduate,Yes,85132,0,Yes,0
+61379,Graduate,No,308827,0,Yes,0
+127633,Not Graduate,Yes,630542,0,No,0
+96789,Graduate,Yes,424390,0,No,0
+91370,Graduate,Yes,66057,1,Yes,1
+44215,Graduate,No,66115,0,Yes,0
+132816,Not Graduate,No,497566,1,No,1
+139480,Not Graduate,Yes,90806,0,No,0
+55521,Graduate,Yes,437960,1,Yes,1
+37736,Not Graduate,Yes,198178,1,Yes,1
+130645,Not Graduate,Yes,324821,1,No,1
+84959,Not Graduate,Yes,424328,1,Yes,1
+70348,Not Graduate,Yes,388309,0,No,0
+52170,Not Graduate,Yes,381212,0,No,0
+102067,Graduate,Yes,46512,1,Yes,1
+27141,Graduate,No,225831,1,No,0
+124617,Not Graduate,No,271851,0,Yes,0
